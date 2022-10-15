@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const industrySchema = new mongoose.Schema(
   {
-    iname: { type: required, unique: true },
+    iname: { type: String, unique: true },
   },
   {
     timestamps: true,
