@@ -24,3 +24,7 @@ Follow Up
 | {year}{month}0002  |Mr Joe | j@j.com| 283    | xxxxxxx xxxx  | Chasing  | 22/10/2022    |
 
 
+Article Post  (Blog)
+
+With Respect to INDUSTRY they will post the article. 
+title, slug, description, articleImage, tags, author with post_date
